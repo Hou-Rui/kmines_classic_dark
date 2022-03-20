@@ -1,0 +1,15 @@
+[KGameTheme]
+Name=Classic Dark
+Name[x-test]=xxClassic Darkxx
+Name[zh_CN]=经典暗色
+Name[zh_TW]=古典暗色
+Description=Classic Dark theme for KMines
+Description[x-test]=xxClassic Dark theme for KMinesxx
+Description[zh_CN]=KMines 经典暗色主题
+Description[zh_TW]=KMine 古典暗色外觀主題
+VersionFormat=1
+Author=Hou Rui
+AuthorEmail=houruinus@gmail.com
+Type=SVG
+FileName=kmines_classic_dark.svg
+Preview=classic_dark_preview.png
